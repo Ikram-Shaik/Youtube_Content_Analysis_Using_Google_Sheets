@@ -60,3 +60,5 @@ This project addresses several key questions to help understand YouTube content 
      - Use **Bar Charts** for ranking categories by views and video count.
      - Use **Line Graphs** for monthly trends in average views.
      - **Tables** to display specific details like top channels and videos.
+   ![Excel Dasboard](https://github.com/user-attachments/assets/a25d82d5-0fda-4f96-8134-77f0cc0c955e)
+
